@@ -64,23 +64,6 @@ Streamline your Telegram bot operations with our comprehensive management dashbo
 
 ## 💎 Pricing Plans
 
-<table>
-<tr>
-<td width="33%">
-    🚀 <b>Starter</b><br/>
-    Perfect for small businesses
-</td>
-<td width="33%">
-    ⭐ <b>Professional</b><br/>
-    For growing organizations
-</td>
-<td width="33%">
-    👑 <b>Enterprise</b><br/>
-    Custom solutions for large scale
-</td>
-</tr>
-</table>
-
 > Contact our sales team for detailed pricing information and custom solutions.
 
 ## 🎯 Why Choose Us
